@@ -12,3 +12,7 @@ nav {
 #logo p {
     font-size: 1.65rem;
 }
+
+.navbar-burger span {
+    color: red;
+}
