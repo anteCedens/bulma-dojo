@@ -13,6 +13,11 @@ nav {
     font-size: 1.65rem;
 }
 
+.navbar-burger {
+    background: url('/assets/img/rTnrpap6c.png') no-repeat center;
+    background-size: 40%;
+}
+
 .navbar-burger span {
-    color: red;
+    background-color: unset;
 }
