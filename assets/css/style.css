@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
 
+body {
+    font-family: 'Kirang Haerang', Courier, monospace;
+}
+
+nav {
+    font-family: 'Barrio', Courier, monospace;
+}
+
 #logo p {
     font-size: 1.65rem;
 }
